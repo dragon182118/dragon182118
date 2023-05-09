@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Dragon182118 😁
 
  <div>
    <a href="https://github.com/dragon182118
@@ -16,8 +16,6 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
  
